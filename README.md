@@ -11,7 +11,7 @@
 <img src="https://i.hizliresim.com/q89a7up.png" width=500px>
 
 ---
-## Resources ;
+## Resources
 
 ### Technical
 * https://www.w3schools.com/
