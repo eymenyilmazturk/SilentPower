@@ -1,5 +1,4 @@
 # ***Silent Power***
----
 * Silent Power is a website that can help you about electric cars.  
 * If you want to buy a new electric car, you can learn the features of the car you will buy via Silent Power.
 
@@ -12,7 +11,7 @@
 <img src="https://i.hizliresim.com/q89a7up.png" width=500px>
 
 ---
-## Sources
+## Resources ;
 
 ### Technical
 * https://www.w3schools.com/
